@@ -5,11 +5,11 @@ This project is written in _HTML_ and uses CSS and Bootstrap frameworks for styl
 
 ## Dependency
 
-Bootstrap version 3.3.7
-CSS version 3
-HTML 5
-Javascript version 1.7
-jQuery version 3.2.0
+Bootstrap version 3.3.7<br />
+CSS version 3<br />
+HTML 5<br />
+Javascript version 1.7<br />
+jQuery version 3.2.0<br />
 
 ## How to run
 
